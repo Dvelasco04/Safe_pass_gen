@@ -46,8 +46,8 @@ secure password: &Zr9@eYq2#Pw
  
  ## 📦 How to Run
 
- - [ ] Clone this repository or copy the code.
- - [ ] Run the script in a Python environment:
+ 1.  Clone this repository or copy the code.
+ 2.  Run the script in a Python environment:
 	 - ```python passgen.py```
 
 
